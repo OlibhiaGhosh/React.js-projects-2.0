@@ -7,6 +7,6 @@
 ### Website link : [Colorify](https://colorify-zeta.vercel.app/)
 
 ## Project 5 - Find_User
-### I made this project to practice data fetching using API and using it
+### I made this project to practice data fetching using API 
 ### Website link : 
 
