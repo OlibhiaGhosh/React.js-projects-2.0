@@ -1,9 +1,8 @@
-import githubuserdata from "./hooks/customhooks"
+import Githubuserdata from "./hooks/customhooks"
 
 const Infodisplay = ({Name}) => {
-    const {user , error} = githubuserdata(Name)
-    console.log(user)
-
+    const {user , error} = Githubuserdata(Name)
+    
     return(
         <>
          <div className="info">
